@@ -1,7 +1,6 @@
 """
 Project # Database Simulation
 Name: Tianrui Liu
-Time to completion: 10 Hour
 Comments: Based on the Database completion.
           Add DESC functions in database, table and class respectively.
           Add drop functions in database, table and class respectively.
