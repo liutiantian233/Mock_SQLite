@@ -1,5 +1,5 @@
 # Mock_SQLite
-This is open source simulated SQLite code. Some of the basic functions of SQLite are simulated and applied in Python.
+This is part of the project that allows open source to simulate SQLite code. But it basically retains some basic functions of SQLite, and has been simulated and applied in Python.
 
 # Project Database Simulation
 SQLite is a lightweight database system similar to Access. But smaller, faster, larger capacity, and higher concurrency. Why SQLite is best for CMS? Not that other databases are bad, Oracle, MySQL, and SQLServer are also excellent DBS. They just have different design goals and different features. So only more applicable to an application scenario, there is no absolute good or bad.
