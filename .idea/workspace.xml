@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e95921c4-e490-4baf-8c5d-3f7e762ea0f8" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aYnugZUMdLARXDFubdGIXYbab3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="project" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Database_Simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e95921c4-e490-4baf-8c5d-3f7e762ea0f8" name="默认更改列表" comment="" />
+      <created>1586921618881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586921618881</updated>
+      <workItem from="1586921620816" duration="2197000" />
+      <workItem from="1587014470946" duration="809000" />
+      <workItem from="1587627943656" duration="41000" />
+      <workItem from="1594288603930" duration="175000" />
+      <workItem from="1596094317285" duration="216000" />
+      <workItem from="1599016524208" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586922268895">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586922268895" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1586923919055">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586923919055" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1586923919054">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586923919054" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1586923919053">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586923919053" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1586923919055">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586923919055" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1586923919057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586923919057" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1586923919056">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586923919056" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1586923919056">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586923919056" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1586923919057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586923919057" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Database_Simulation$project.coverage" NAME="project Coverage Results" MODIFIED="1586923908901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
