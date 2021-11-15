@@ -4,7 +4,7 @@ This is part of the project that allows open source to simulate SQLite code. But
 # Project Database Simulation
 SQLite is a lightweight database system similar to Access. But smaller, faster, larger capacity, and higher concurrency. Why SQLite is best for CMS? Not that other databases are bad, Oracle, MySQL, and SQLServer are also excellent DBS. They just have different design goals and different features. So only more applicable to an application scenario, there is no absolute good or bad.
 
-## Name: Tianrui Liu
+## Project Detail
 
 Comments: Based on the Database completion. Add DESC functions in database, table and class respectively. Add drop functions in database, table and class respectively. Iterator functions are created using the itertools efficient loop.
 
